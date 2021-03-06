@@ -31,3 +31,9 @@ console.log(num);
 console.log(newNum)
 
 // in prefix the value first increment then print.
+----------------------------------------------------------
+comparsion  operator
+var a=30;
+var b=10;
+console.log(a > b);
+output: true
