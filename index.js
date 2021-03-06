@@ -37,3 +37,8 @@ var a=30;
 var b=10;
 console.log(a > b);
 output: true
+----------------------------------------------------------------------------------
+logical operator
+var a=30;
+var b=-20;
+console.log(a > b && b > 0 && 0 < b);
