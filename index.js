@@ -42,3 +42,5 @@ logical operator
 var a=30;
 var b=-20;
 console.log(a > b && b > 0 && 0 < b);
+-----------------------------------------------------
+Conditional or Ternary Operator : It takes three operands 
