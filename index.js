@@ -45,3 +45,6 @@ console.log(a > b && b > 0 && 0 < b);
 -----------------------------------------------------
 Conditional or Ternary Operator : It takes three operands 
 variablename =(condition)? value1 :value2
+
+var age=17;
+((age <18) ? you can give vote : you can not eligible);
