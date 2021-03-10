@@ -33,6 +33,17 @@ console.log(newNum)
 // in prefix the value first increment then print.
 ----------------------------------------------------------
 comparsion  operator
+
+function myFirst() {
+  myDisplayer("Hello");
+}
+
+function mySecond() {
+  myDisplayer("Goodbye");
+}
+
+myFirst();
+mySecond();
 var a=30;
 var b=10;
 console.log(a > b);
