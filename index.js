@@ -96,3 +96,14 @@ Callback------> A callback is a function passed as an argument to another functi
 This technique allows a function to call another function
 
 A callback function can run after another function has finished
+// example
+function myFirst() {
+  myDisplayer("Hello");
+}
+
+function mySecond() {
+  myDisplayer("Goodbye");
+}
+
+myFirst();
+mySecond();
