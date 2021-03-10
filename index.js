@@ -78,3 +78,10 @@ for(let i = 1; i <= range; i++) {
     const result = i * number;
     console.log(`${number} * ${i} = ${result}`);
 }
+
+--------------------------------------------------------------------------------------
+Callback------> A callback is a function passed as an argument to another function
+
+This technique allows a function to call another function
+
+A callback function can run after another function has finished
