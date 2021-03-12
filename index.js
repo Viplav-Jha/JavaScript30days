@@ -120,3 +120,8 @@ function myCalculator(num1, num2, myCallback) {
 }
 
 myCalculator(5, 5, myDisplayer);
+// JavaScript Array
+
+var cars = ["Saab", "Volvo", "BMW"];
+cars[0] = "Opel";
+document.getElementById("demo").innerHTML = cars[0];
