@@ -154,5 +154,5 @@ function display_array()
    {
      e += "Element " + y + " = " + array[y] + "<br/>";
    }
-   document.getElementById("Result").innerHTML = ;
+   document.getElementById("Result").innerHTML = e;
 }
