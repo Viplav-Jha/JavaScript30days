@@ -128,7 +128,6 @@ cars[0] = "Opel";
 document.getElementById("demo").innerHTML = cars[0];
 // --------------------------------------------------------------------
 const myArray = ['h',  'e', 'l', 'l', 'o'];
-
 // first element
 console.log(myArray[0]);  // "h"
 
