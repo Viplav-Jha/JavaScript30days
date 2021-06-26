@@ -10,6 +10,7 @@ You can put a bracket around x==y.
 console.log("is both the x and y is equal or not "+ (x==y))
 op: Is both the x and y is equal or not true
 
+
 Or use comma:
 console.log("is both the x and y is equal or not ", x==y)
 op: is both the x and y is equal or not true
