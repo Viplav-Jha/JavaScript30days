@@ -29,7 +29,7 @@ console.log(newNum);
 var num =18;
 newNum= ++num +4;
 console.log(num);
-console.log(newNum)
+console.log(newNum);
 
 // in prefix the value first increment then print.
 ----------------------------------------------------------
